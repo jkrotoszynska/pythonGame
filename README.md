@@ -10,12 +10,8 @@ You are a little girl who really likes candies and balloons so if you catch them
 | +1 | +1 | +15 | -5 | 
 
 
-__startup screen__
-<p align="center">
-   <a href="" target="_blank"> <img src="https://github.com/jkrotoszynska/pythonGame/blob/master/poczatek-gry.png" width="500" height="540"/> </a></p>
-<p align="center">
-   <a href="" target="_blank"> <img src="https://github.com/jkrotoszynska/pythonGame/blob/master/gra.png" width="500" height="540"/> </a></p>
-<p align="center">
-   <a href="" target="_blank"> <img src="https://github.com/jkrotoszynska/pythonGame/blob/master/rozgrywka.png" width="500" height="540"/> </a></p>
-<p align="center">
-   <a href="" target="_blank"> <img src="https://github.com/jkrotoszynska/pythonGame/blob/master/koniec-gry.png" width="500" height="540"/> </a></p>
+__Startup screen__
+![alt text](https://github.com/jkrotoszynska/pythonGame/blob/master/poczatek-gry.png" width="500" height="540")
+![alt text](https://github.com/jkrotoszynska/pythonGame/blob/master/gra.png" width="500" height="540"/> </a></p>
+![alt text](https://github.com/jkrotoszynska/pythonGame/blob/master/rozgrywka.png" width="500" height="540"/> </a></p>
+![alt text](https://github.com/jkrotoszynska/pythonGame/blob/master/koniec-gry.png" width="500" height="540"/> </a></p>
