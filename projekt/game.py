@@ -8,24 +8,24 @@ from pygame import mixer
 pygame.init()
 
 # DZWIEK
-# pygame.mixer.music.load('dzwiek\Ludum Dare 38 - Track 9.wav')
-# pygame.mixer.music.play(-1)
+pygame.mixer.music.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\dzwiek\Ludum Dare 38 - Track 9.wav')
+pygame.mixer.music.play(-1)
 
 OKNO = pygame.display.set_mode((400,400))
 pygame.display.set_caption('Justyna’s crazy adventures')
 
 # TEKSTURY
-KrokiPrawo = [pygame.image.load('skorki\P1.png'), pygame.image.load('skorki\P2.png'), pygame.image.load('skorki\P3.png'), pygame.image.load('skorki\P4.png'), pygame.image.load('skorki\P5.png'), pygame.image.load('skorki\P6.png'), pygame.image.load('skorki\P7.png'), pygame.image.load('skorki\P8.png')]
-KrokiLewo = [pygame.image.load('skorki\L1.png'), pygame.image.load('skorki\L2.png'), pygame.image.load('skorki\L3.png'), pygame.image.load('skorki\L4.png'), pygame.image.load('skorki\L5.png'), pygame.image.load('skorki\L6.png'), pygame.image.load('skorki\L7.png'), pygame.image.load('skorki\L8.png')]
-TLO = pygame.image.load('skorki\wall.png')
-SKOK = [pygame.image.load('skorki\SL.png'), pygame.image.load('skorki\SP.png')]
-SLODYCZE = [pygame.image.load('skorki\cukierek1.png'),pygame.image.load('skorki\cukierek2.png'),pygame.image.load('skorki\cukierek3.png')]
-OGRYZEK = pygame.image.load('skorki\ogryzek.png')
-IKONA = pygame.image.load('ikona.png')
+KrokiPrawo = [pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\P1.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\P2.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\P3.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\P4.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\P5.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\P6.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\P7.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\P8.png')]
+KrokiLewo = [pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\L1.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\L2.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\L3.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\L4.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\L5.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\L6.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\L7.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\L8.png')]
+TLO = pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\wall.png')
+SKOK = [pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\SL.png'), pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\SP.png')]
+SLODYCZE = [pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\cukierek1.png'),pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\cukierek2.png'),pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\cukierek3.png')]
+OGRYZEK = pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\ogryzek.png')
+IKONA = pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\ikona.png')
 pygame.display.set_icon(IKONA)
 
 # WYGLAD MENU
-TloMenu = pygame.image.load('skorki\menu.png')
+TloMenu = pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\menu.png')
 CZCIONKA1 = pygame.font.SysFont("OCR A Extended", 60)
 CZCIONKA2 = pygame.font.SysFont("OCR A Extended", 18)
 CZCIONKA3 = pygame.font.SysFont("OCR A Extended", 30)
@@ -76,7 +76,7 @@ Y_BO = -15
 SZER_BO = 24
 WYSOK_BO = 24
 V_BO = 2
-BOUNS = pygame.image.load('skorki\plus.png')
+BOUNS = pygame.image.load(r'c:\Users\Lenovo\Desktop\Justyna\pythonGame\projekt\skorki\plus.png')
 
 #USTAWIENIA
 MENU = True
