@@ -9,14 +9,19 @@ You are a little girl who really likes candies and balloons so if you catch them
 | :-: | :-: | :-: | :-: |
 | +1 | +1 | +15 | -5 | 
 
+***
 
 <p align="center"> 
    <b> startup screen </b></p>
 <p align="center">
    <a href="" target="_blank"> <img src="https://github.com/jkrotoszynska/pythonGame/blob/master/poczatek-gry.png" width="500" height="540"/> </a></p>
+   <p align="center"> 
+   <b> game screen </b></p>
 <p align="center">
    <a href="" target="_blank"> <img src="https://github.com/jkrotoszynska/pythonGame/blob/master/gra.png" width="500" height="540"/> </a></p>
 <p align="center">
    <a href="" target="_blank"> <img src="https://github.com/jkrotoszynska/pythonGame/blob/master/rozgrywka.png" width="500" height="540"/> </a></p>
+   <p align="center"> 
+   <b> end screen </b></p>
 <p align="center">
    <a href="" target="_blank"> <img src="https://github.com/jkrotoszynska/pythonGame/blob/master/koniec-gry.png" width="500" height="540"/> </a></p>
