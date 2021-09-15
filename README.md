@@ -12,9 +12,7 @@ You are a little girl who really likes candies and balloons so if you catch them
 ***
 
 <p align="center"> 
-   <tspan fill="red">
    <b> startup screen </b></p>
-   </tspan>
 <p align="center">
    <a href="" target="_blank"> <img src="https://github.com/jkrotoszynska/pythonGame/blob/master/poczatek-gry.png" width="500" height="540"/> </a></p>
    <p align="center"> 
