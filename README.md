@@ -6,7 +6,7 @@ This is my first game. I wrote this game to pass the subject "Basics of programm
 You are a little girl who really likes candies and balloons so if you catch them you'll get more points, but watch out for the apple core!!
 
 | red candy | blue candy | balloon | apple core |
-| :-: | - | :-: | - |
+| :-: | :-: | :-: | :-: |
 | +1 | +1 | +15 | -5 | 
 
 <p align="center">
