@@ -5,9 +5,11 @@ This is my first game. I wrote this game to pass the subject "Basics of programm
 ### :cupcake: Game rules:
 You are a little girl who really likes candies and balloons so if you catch them you'll get more points, but watch out for the apple core!!
 
+<p align="center">
 | red candy | blue candy | balloon | apple core |
 | :-: | :-: | :-: | :-: |
 | +1 | +1 | +15 | -5 | 
+</p>
 
 <p align="center">
    <a href="" target="_blank"> <img src="https://github.com/jkrotoszynska/pythonGame/blob/master/poczatek-gry.png" width="500" height="540"/> </a></p>
